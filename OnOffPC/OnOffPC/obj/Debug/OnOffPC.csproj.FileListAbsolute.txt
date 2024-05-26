@@ -1,0 +1,10 @@
+C:\Projects\OnOffPC\OnOffPC\bin\Debug\OnOffPC.exe.config
+C:\Projects\OnOffPC\OnOffPC\bin\Debug\OnOffPC.exe
+C:\Projects\OnOffPC\OnOffPC\bin\Debug\OnOffPC.pdb
+C:\Projects\OnOffPC\OnOffPC\obj\Debug\OnOffPC.csproj.AssemblyReference.cache
+C:\Projects\OnOffPC\OnOffPC\obj\Debug\OnOffPC.Form1.resources
+C:\Projects\OnOffPC\OnOffPC\obj\Debug\OnOffPC.Properties.Resources.resources
+C:\Projects\OnOffPC\OnOffPC\obj\Debug\OnOffPC.csproj.GenerateResource.cache
+C:\Projects\OnOffPC\OnOffPC\obj\Debug\OnOffPC.csproj.CoreCompileInputs.cache
+C:\Projects\OnOffPC\OnOffPC\obj\Debug\OnOffPC.exe
+C:\Projects\OnOffPC\OnOffPC\obj\Debug\OnOffPC.pdb

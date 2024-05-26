@@ -24,8 +24,9 @@ namespace IPScanner
 
         private void ScanNetwork(IPAddress startIP, IPAddress endIP)
         {
+            label1.Text = "Загрузка...";
             byte[] startBytes = startIP.GetAddressBytes();
-            byte[] endBytes = endIP.GetAddressBytes();
+            byte[] endBytes = endIP.GetAddressBytes();  
 
             // Сканирование IP-адресов в диапазоне
             while (CompareIPAddresses(startBytes, endBytes) <= 0)
@@ -114,6 +115,7 @@ namespace IPScanner
             {
                 MessageBox.Show("Введите корректные IP-адреса.");
             }
+            label1.Text = "Готово";
         }
     }
 }
