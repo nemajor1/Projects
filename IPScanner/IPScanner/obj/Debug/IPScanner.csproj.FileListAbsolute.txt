@@ -1,0 +1,10 @@
+C:\Projects\IPScanner\IPScanner\bin\Debug\IPScanner.exe.config
+C:\Projects\IPScanner\IPScanner\bin\Debug\IPScanner.exe
+C:\Projects\IPScanner\IPScanner\bin\Debug\IPScanner.pdb
+C:\Projects\IPScanner\IPScanner\obj\Debug\IPScanner.csproj.AssemblyReference.cache
+C:\Projects\IPScanner\IPScanner\obj\Debug\IPScanner.Form1.resources
+C:\Projects\IPScanner\IPScanner\obj\Debug\IPScanner.Properties.Resources.resources
+C:\Projects\IPScanner\IPScanner\obj\Debug\IPScanner.csproj.GenerateResource.cache
+C:\Projects\IPScanner\IPScanner\obj\Debug\IPScanner.csproj.CoreCompileInputs.cache
+C:\Projects\IPScanner\IPScanner\obj\Debug\IPScanner.exe
+C:\Projects\IPScanner\IPScanner\obj\Debug\IPScanner.pdb
